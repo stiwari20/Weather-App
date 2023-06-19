@@ -1,0 +1,54 @@
+.heading {
+    text-align: center;
+    font-size: 6rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.bg{
+    background-image: url(https://images.pexels.com/photos/7002972/pexels-photo-7002972.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-img {
+    background-image: url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600);
+    background-size: cover;
+    font-size: 1.5rem;
+}
+
+.showHeading {
+    text-align: center; 
+    margin-top: 200px;
+}
+
+.showWeather {
+    text-align: center;
+    /* font-size: 0.5rem; */
+    
+}
+
+.search-box {
+    font-size: 20px;
+    height: 40px;
+    border-radius: 0.3rem;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 550px;
+    border: none;
+    padding-left: 20px;
+    line-height: 1.5;
+    background-color: #F0F8FF;
+}
+
+.search-btn {
+    color: #fff;
+    height: 50px;
+    padding: 0.5rem 1rem;
+    margin-left: 20px;
+    font-size: 20px;
+    border-radius: 0.3rem;
+    background-color: #28a745;
+    border-color: #28a745;
+    cursor: pointer;
+}
